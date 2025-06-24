@@ -20,4 +20,4 @@ This repository includes:
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/sanju091/complete-javascript/tree/main
+   git clone https://github.com/pulkit-sharma12/complete-javascript
